@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\drive f\mobin\prj visual\sodoco\sodoco\source.cpp(437): warning C4101: 'a': unreferenced local variable
+d:\drive f\mobin\prj visual\sodoco\sodoco\source.cpp(437): warning C4101: 'e': unreferenced local variable
+  sodoco.vcxproj -> D:\drive f\Mobin\prj visual\sodoco\Debug\sodoco.exe
+  sodoco.vcxproj -> D:\drive f\Mobin\prj visual\sodoco\Debug\sodoco.pdb (Full PDB)
